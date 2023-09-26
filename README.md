@@ -1,4 +1,4 @@
-This is a new [**React Native Learning Project**], bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+This is a **React Native Learning Project**, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
 
