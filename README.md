@@ -21,3 +21,20 @@ npm start
 ### Step 5: Select platfrom you want to run on a for Android, i for iOS
 
 **Note**: Assuption is that you have all the required sdk and emulator installed for iOS and Android or for specific project on which you want to run project.
+
+### Following React Native features have been demonstrated
+
+1. Navigation - Part of project screen navigation
+2. Progress bar
+3. Buttons
+4. Images
+5. Modal Dialog
+6. Drawer
+7. useEffect Hook
+8. useState Hook
+9. Briedge ( invoking native module from react native) - Only for Android
+10. Networking using AXIOS
+11. Networking using fetch apis
+12. Redux
+13. Styles and FlexBox as part of Screens
+14. FlatList as part of project screens
