@@ -2,8 +2,6 @@ This is a new [**React Native Learning Project**], bootstrapped using [`@react-n
 
 # Getting Started
 
-> **Note**: Please do following to run the project
-
 ## Use following steps to run project
 
 ### Step 1 - Go to project directory and run following command
