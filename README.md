@@ -38,3 +38,5 @@ npm start
 12. Redux
 13. Styles and FlexBox as part of Screens
 14. FlatList as part of project screens
+
+For any feedback please write back at <krish@techhabiles.com>
